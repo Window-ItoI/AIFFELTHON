@@ -52,6 +52,7 @@
 - [SDEdit](https://github.com/ermongroup/SDEdit)
 - [Latent Diffusion](https://github.com/CompVis/latent-diffusion)
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion#image-modification-with-stable-diffusion)
+- [CLIP](https://github.com/openai/CLIP.git)
 
 
 <details>
